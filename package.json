@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "nodemon": "^2.0.22"
-  }
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.4",
+    "nodemon": "^2.0.22",
+    "paypal-rest-sdk": "^1.8.1"
+  },
+  "name": "payment-using-paypalapis",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NTuan281/Payment-using-PaypalAPIs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NTuan281/Payment-using-PaypalAPIs/issues"
+  },
+  "homepage": "https://github.com/NTuan281/Payment-using-PaypalAPIs#readme"
 }

@@ -1,0 +1,21 @@
+[{
+  "name": "iPhone 13",
+  "sku": "001",
+  "price": "599.0",
+  "currency": "USD",
+  "quantity": 2
+},
+{
+"name": "iPhone 14",
+"sku": "002",
+"price": "799.0",
+"currency": "USD",
+"quantity": 1
+},
+{
+  "name": "iPhone 14 Pro",
+  "sku": "003",
+  "price": "999.0",
+  "currency": "USD",
+  "quantity": 1
+}]

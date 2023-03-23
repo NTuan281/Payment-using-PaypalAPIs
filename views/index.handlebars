@@ -1,0 +1,20 @@
+{{#each items}}
+<div class="item">
+  <div class="item-name">
+    {{this.name}}
+  </div>
+  <div>
+    <img src="https://www.xtsmart.vn/vnt_upload/news/09_2022/thiet-ke-iphone-14-pro-xtsmart.jpg" alt="iPhone" width="167" height="87">
+  </div>
+  <div class="item-price">
+    Price: {{this.price}}
+  </div>
+  <div class="item-quantity">
+    Quantity: {{this.quantity}}
+  </div>
+  <br><br><br>
+</div>
+{{/each}}
+  <form action="/pay" method="POST">
+   <input type="submit" value="Buy">
+  </form>
